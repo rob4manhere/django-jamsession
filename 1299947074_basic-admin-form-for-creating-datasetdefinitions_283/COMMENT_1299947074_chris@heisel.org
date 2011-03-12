@@ -1,0 +1,6 @@
+
+* Name should be required
+* At least one schema column must be set
+* All schema keys should be unique to the DataSet
+* All schema column types should be valid
+
